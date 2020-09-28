@@ -1,0 +1,41 @@
+pwd
+-> print working directory
+
+ls / ll
+-> list the contents of the directory
+
+cd directory_name
+-> moves into a directory
+
+cd ..
+-> moves out of a directory
+
+mkdir
+-> creates a directory
+
+touch filename
+-> creates a new file
+
+rm filename
+-> deletes file
+
+rm -r directory_name
+-> deletes the directory
+
+-f
+-> forces deletion
+
+mv filname new_directory
+-> moves the file
+
+mv filename new_filename
+-> rename the file
+
+stt / code .
+-> opens text editory in this directory
+
+cat filename
+-> prints content of file
+
+open .
+-> opens directory in finder
