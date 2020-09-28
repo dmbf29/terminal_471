@@ -1,0 +1,18 @@
+git init
+-> to start git in a project
+
+git status
+-> check what files have been changed
+
+git add filename
+git commit -m "meaningful message"
+-> create a savepoint
+
+git diff
+-> check the difference from last commit
+
+git log
+-> see the long logs of commits
+
+git lg
+-> see the short logs of commits
